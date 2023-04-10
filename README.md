@@ -1,1 +1,1 @@
-# 2D-minecraft-creative-mode
+# 2D-MINECRAFT-CREATIVE-MODE
